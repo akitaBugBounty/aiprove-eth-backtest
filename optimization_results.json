@@ -1,0 +1,2738 @@
+[
+  {
+    "params": {
+      "min_leg_bps": 35.0,
+      "require_sweep": false,
+      "confirm": "close_or_engulf",
+      "tp_mode": "fixed",
+      "entry_mode": "limit",
+      "rr": 2.0
+    },
+    "full_net": 212.65,
+    "full_dd": 293.28,
+    "full_dd_pct": 2.9,
+    "full_trades": 14,
+    "full_wr": 50.0,
+    "h1_net": -190.19,
+    "h2_net": 410.62,
+    "harsh_net": 96.88,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 50.0,
+      "require_sweep": false,
+      "confirm": "close_or_engulf",
+      "tp_mode": "fixed",
+      "entry_mode": "limit",
+      "rr": 2.0
+    },
+    "full_net": 175.53,
+    "full_dd": 159.52,
+    "full_dd_pct": 1.58,
+    "full_trades": 8,
+    "full_wr": 50.0,
+    "h1_net": -56.44,
+    "h2_net": 233.28,
+    "harsh_net": 110.69,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 35.0,
+      "require_sweep": true,
+      "confirm": "close_or_engulf",
+      "tp_mode": "fixed",
+      "entry_mode": "limit",
+      "rr": 3.0
+    },
+    "full_net": 169.75,
+    "full_dd": 81.92,
+    "full_dd_pct": 0.81,
+    "full_trades": 1,
+    "full_wr": 100.0,
+    "h1_net": 0,
+    "h2_net": 169.75,
+    "harsh_net": 163.82,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 35.0,
+      "require_sweep": true,
+      "confirm": "engulf_or_displacement",
+      "tp_mode": "fixed",
+      "entry_mode": "limit",
+      "rr": 3.0
+    },
+    "full_net": 169.75,
+    "full_dd": 81.92,
+    "full_dd_pct": 0.81,
+    "full_trades": 1,
+    "full_wr": 100.0,
+    "h1_net": 0,
+    "h2_net": 169.75,
+    "harsh_net": 163.82,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 35.0,
+      "require_sweep": false,
+      "confirm": "close_or_engulf",
+      "tp_mode": "fixed",
+      "entry_mode": "limit",
+      "rr": 3.0
+    },
+    "full_net": 144.71,
+    "full_dd": 310.84,
+    "full_dd_pct": 3.07,
+    "full_trades": 13,
+    "full_wr": 38.5,
+    "h1_net": -160.93,
+    "h2_net": 310.6,
+    "harsh_net": 31.09,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 50.0,
+      "require_sweep": false,
+      "confirm": "close_or_engulf",
+      "tp_mode": "fixed",
+      "entry_mode": "limit",
+      "rr": 3.0
+    },
+    "full_net": 125.72,
+    "full_dd": 221.07,
+    "full_dd_pct": 2.14,
+    "full_trades": 8,
+    "full_wr": 37.5,
+    "h1_net": -26.77,
+    "h2_net": 152.89,
+    "harsh_net": 56.54,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 35.0,
+      "require_sweep": true,
+      "confirm": "close_or_engulf",
+      "tp_mode": "fixed",
+      "entry_mode": "limit",
+      "rr": 2.0
+    },
+    "full_net": 111.84,
+    "full_dd": 81.92,
+    "full_dd_pct": 0.81,
+    "full_trades": 1,
+    "full_wr": 100.0,
+    "h1_net": 0,
+    "h2_net": 111.84,
+    "harsh_net": 105.88,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 35.0,
+      "require_sweep": true,
+      "confirm": "engulf_or_displacement",
+      "tp_mode": "fixed",
+      "entry_mode": "limit",
+      "rr": 2.0
+    },
+    "full_net": 111.84,
+    "full_dd": 81.92,
+    "full_dd_pct": 0.81,
+    "full_trades": 1,
+    "full_wr": 100.0,
+    "h1_net": 0,
+    "h2_net": 111.84,
+    "harsh_net": 105.88,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 35.0,
+      "require_sweep": true,
+      "confirm": "close_or_engulf",
+      "tp_mode": "fixed",
+      "entry_mode": "market",
+      "rr": 3.0
+    },
+    "full_net": 109.72,
+    "full_dd": 81.92,
+    "full_dd_pct": 0.81,
+    "full_trades": 1,
+    "full_wr": 100.0,
+    "h1_net": 0,
+    "h2_net": 109.72,
+    "harsh_net": 103.63,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 35.0,
+      "require_sweep": true,
+      "confirm": "engulf_or_displacement",
+      "tp_mode": "fixed",
+      "entry_mode": "market",
+      "rr": 3.0
+    },
+    "full_net": 109.72,
+    "full_dd": 81.92,
+    "full_dd_pct": 0.81,
+    "full_trades": 1,
+    "full_wr": 100.0,
+    "h1_net": 0,
+    "h2_net": 109.72,
+    "harsh_net": 103.63,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 70.0,
+      "require_sweep": false,
+      "confirm": "close_or_engulf",
+      "tp_mode": "fixed",
+      "entry_mode": "limit",
+      "rr": 2.0
+    },
+    "full_net": 105.04,
+    "full_dd": 158.63,
+    "full_dd_pct": 1.58,
+    "full_trades": 4,
+    "full_wr": 50.0,
+    "h1_net": -111.82,
+    "h2_net": 219.31,
+    "harsh_net": 73.96,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 70.0,
+      "require_sweep": false,
+      "confirm": "engulf_or_displacement",
+      "tp_mode": "fixed",
+      "entry_mode": "limit",
+      "rr": 3.0
+    },
+    "full_net": 71.66,
+    "full_dd": 138.34,
+    "full_dd_pct": 1.38,
+    "full_trades": 4,
+    "full_wr": 50.0,
+    "h1_net": -68.81,
+    "h2_net": 141.45,
+    "harsh_net": 40.63,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 35.0,
+      "require_sweep": true,
+      "confirm": "close_or_engulf",
+      "tp_mode": "fixed",
+      "entry_mode": "market",
+      "rr": 2.0
+    },
+    "full_net": 68.91,
+    "full_dd": 46.07,
+    "full_dd_pct": 0.46,
+    "full_trades": 1,
+    "full_wr": 100.0,
+    "h1_net": 0,
+    "h2_net": 68.91,
+    "harsh_net": 61.87,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 35.0,
+      "require_sweep": true,
+      "confirm": "engulf_or_displacement",
+      "tp_mode": "fixed",
+      "entry_mode": "market",
+      "rr": 2.0
+    },
+    "full_net": 68.91,
+    "full_dd": 46.07,
+    "full_dd_pct": 0.46,
+    "full_trades": 1,
+    "full_wr": 100.0,
+    "h1_net": 0,
+    "h2_net": 68.91,
+    "harsh_net": 61.87,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 50.0,
+      "require_sweep": false,
+      "confirm": "engulf_or_displacement",
+      "tp_mode": "fixed",
+      "entry_mode": "limit",
+      "rr": 3.0
+    },
+    "full_net": 48.03,
+    "full_dd": 186.12,
+    "full_dd_pct": 1.82,
+    "full_trades": 8,
+    "full_wr": 37.5,
+    "h1_net": 16.61,
+    "h2_net": 31.37,
+    "harsh_net": -20.55,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 35.0,
+      "require_sweep": true,
+      "confirm": "close_or_engulf",
+      "tp_mode": "fixed_and_trail",
+      "entry_mode": "limit",
+      "rr": 2.0
+    },
+    "full_net": 47.67,
+    "full_dd": 46.07,
+    "full_dd_pct": 0.46,
+    "full_trades": 1,
+    "full_wr": 100.0,
+    "h1_net": 0,
+    "h2_net": 47.67,
+    "harsh_net": 38.57,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 35.0,
+      "require_sweep": true,
+      "confirm": "close_or_engulf",
+      "tp_mode": "fixed_and_trail",
+      "entry_mode": "limit",
+      "rr": 3.0
+    },
+    "full_net": 47.67,
+    "full_dd": 46.07,
+    "full_dd_pct": 0.46,
+    "full_trades": 1,
+    "full_wr": 100.0,
+    "h1_net": 0,
+    "h2_net": 47.67,
+    "harsh_net": 38.57,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 35.0,
+      "require_sweep": true,
+      "confirm": "close_or_engulf",
+      "tp_mode": "trail",
+      "entry_mode": "limit",
+      "rr": 2.0
+    },
+    "full_net": 47.67,
+    "full_dd": 46.07,
+    "full_dd_pct": 0.46,
+    "full_trades": 1,
+    "full_wr": 100.0,
+    "h1_net": 0,
+    "h2_net": 47.67,
+    "harsh_net": 38.57,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 35.0,
+      "require_sweep": true,
+      "confirm": "close_or_engulf",
+      "tp_mode": "trail",
+      "entry_mode": "limit",
+      "rr": 3.0
+    },
+    "full_net": 47.67,
+    "full_dd": 46.07,
+    "full_dd_pct": 0.46,
+    "full_trades": 1,
+    "full_wr": 100.0,
+    "h1_net": 0,
+    "h2_net": 47.67,
+    "harsh_net": 38.57,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 35.0,
+      "require_sweep": true,
+      "confirm": "engulf_or_displacement",
+      "tp_mode": "fixed_and_trail",
+      "entry_mode": "limit",
+      "rr": 2.0
+    },
+    "full_net": 47.67,
+    "full_dd": 46.07,
+    "full_dd_pct": 0.46,
+    "full_trades": 1,
+    "full_wr": 100.0,
+    "h1_net": 0,
+    "h2_net": 47.67,
+    "harsh_net": 38.57,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 35.0,
+      "require_sweep": true,
+      "confirm": "engulf_or_displacement",
+      "tp_mode": "fixed_and_trail",
+      "entry_mode": "limit",
+      "rr": 3.0
+    },
+    "full_net": 47.67,
+    "full_dd": 46.07,
+    "full_dd_pct": 0.46,
+    "full_trades": 1,
+    "full_wr": 100.0,
+    "h1_net": 0,
+    "h2_net": 47.67,
+    "harsh_net": 38.57,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 35.0,
+      "require_sweep": true,
+      "confirm": "engulf_or_displacement",
+      "tp_mode": "trail",
+      "entry_mode": "limit",
+      "rr": 2.0
+    },
+    "full_net": 47.67,
+    "full_dd": 46.07,
+    "full_dd_pct": 0.46,
+    "full_trades": 1,
+    "full_wr": 100.0,
+    "h1_net": 0,
+    "h2_net": 47.67,
+    "harsh_net": 38.57,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 35.0,
+      "require_sweep": true,
+      "confirm": "engulf_or_displacement",
+      "tp_mode": "trail",
+      "entry_mode": "limit",
+      "rr": 3.0
+    },
+    "full_net": 47.67,
+    "full_dd": 46.07,
+    "full_dd_pct": 0.46,
+    "full_trades": 1,
+    "full_wr": 100.0,
+    "h1_net": 0,
+    "h2_net": 47.67,
+    "harsh_net": 38.57,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 50.0,
+      "require_sweep": false,
+      "confirm": "close_or_engulf",
+      "tp_mode": "fixed_and_trail",
+      "entry_mode": "limit",
+      "rr": 3.0
+    },
+    "full_net": 17.69,
+    "full_dd": 160.0,
+    "full_dd_pct": 1.58,
+    "full_trades": 9,
+    "full_wr": 44.4,
+    "h1_net": -26.77,
+    "h2_net": 44.57,
+    "harsh_net": -64.81,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 50.0,
+      "require_sweep": true,
+      "confirm": "close_or_engulf",
+      "tp_mode": "fixed",
+      "entry_mode": "market",
+      "rr": 2.0
+    },
+    "full_net": 0,
+    "full_dd": 0.0,
+    "full_dd_pct": 0.0,
+    "full_trades": 0,
+    "full_wr": 0.0,
+    "h1_net": 0,
+    "h2_net": 0,
+    "harsh_net": 0,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 50.0,
+      "require_sweep": true,
+      "confirm": "close_or_engulf",
+      "tp_mode": "fixed",
+      "entry_mode": "market",
+      "rr": 3.0
+    },
+    "full_net": 0,
+    "full_dd": 0.0,
+    "full_dd_pct": 0.0,
+    "full_trades": 0,
+    "full_wr": 0.0,
+    "h1_net": 0,
+    "h2_net": 0,
+    "harsh_net": 0,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 50.0,
+      "require_sweep": true,
+      "confirm": "close_or_engulf",
+      "tp_mode": "fixed",
+      "entry_mode": "limit",
+      "rr": 2.0
+    },
+    "full_net": 0,
+    "full_dd": 0.0,
+    "full_dd_pct": 0.0,
+    "full_trades": 0,
+    "full_wr": 0.0,
+    "h1_net": 0,
+    "h2_net": 0,
+    "harsh_net": 0,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 50.0,
+      "require_sweep": true,
+      "confirm": "close_or_engulf",
+      "tp_mode": "fixed",
+      "entry_mode": "limit",
+      "rr": 3.0
+    },
+    "full_net": 0,
+    "full_dd": 0.0,
+    "full_dd_pct": 0.0,
+    "full_trades": 0,
+    "full_wr": 0.0,
+    "h1_net": 0,
+    "h2_net": 0,
+    "harsh_net": 0,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 50.0,
+      "require_sweep": true,
+      "confirm": "close_or_engulf",
+      "tp_mode": "fixed_and_trail",
+      "entry_mode": "market",
+      "rr": 2.0
+    },
+    "full_net": 0,
+    "full_dd": 0.0,
+    "full_dd_pct": 0.0,
+    "full_trades": 0,
+    "full_wr": 0.0,
+    "h1_net": 0,
+    "h2_net": 0,
+    "harsh_net": 0,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 50.0,
+      "require_sweep": true,
+      "confirm": "close_or_engulf",
+      "tp_mode": "fixed_and_trail",
+      "entry_mode": "market",
+      "rr": 3.0
+    },
+    "full_net": 0,
+    "full_dd": 0.0,
+    "full_dd_pct": 0.0,
+    "full_trades": 0,
+    "full_wr": 0.0,
+    "h1_net": 0,
+    "h2_net": 0,
+    "harsh_net": 0,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 50.0,
+      "require_sweep": true,
+      "confirm": "close_or_engulf",
+      "tp_mode": "fixed_and_trail",
+      "entry_mode": "limit",
+      "rr": 2.0
+    },
+    "full_net": 0,
+    "full_dd": 0.0,
+    "full_dd_pct": 0.0,
+    "full_trades": 0,
+    "full_wr": 0.0,
+    "h1_net": 0,
+    "h2_net": 0,
+    "harsh_net": 0,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 50.0,
+      "require_sweep": true,
+      "confirm": "close_or_engulf",
+      "tp_mode": "fixed_and_trail",
+      "entry_mode": "limit",
+      "rr": 3.0
+    },
+    "full_net": 0,
+    "full_dd": 0.0,
+    "full_dd_pct": 0.0,
+    "full_trades": 0,
+    "full_wr": 0.0,
+    "h1_net": 0,
+    "h2_net": 0,
+    "harsh_net": 0,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 50.0,
+      "require_sweep": true,
+      "confirm": "close_or_engulf",
+      "tp_mode": "trail",
+      "entry_mode": "market",
+      "rr": 2.0
+    },
+    "full_net": 0,
+    "full_dd": 0.0,
+    "full_dd_pct": 0.0,
+    "full_trades": 0,
+    "full_wr": 0.0,
+    "h1_net": 0,
+    "h2_net": 0,
+    "harsh_net": 0,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 50.0,
+      "require_sweep": true,
+      "confirm": "close_or_engulf",
+      "tp_mode": "trail",
+      "entry_mode": "market",
+      "rr": 3.0
+    },
+    "full_net": 0,
+    "full_dd": 0.0,
+    "full_dd_pct": 0.0,
+    "full_trades": 0,
+    "full_wr": 0.0,
+    "h1_net": 0,
+    "h2_net": 0,
+    "harsh_net": 0,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 50.0,
+      "require_sweep": true,
+      "confirm": "close_or_engulf",
+      "tp_mode": "trail",
+      "entry_mode": "limit",
+      "rr": 2.0
+    },
+    "full_net": 0,
+    "full_dd": 0.0,
+    "full_dd_pct": 0.0,
+    "full_trades": 0,
+    "full_wr": 0.0,
+    "h1_net": 0,
+    "h2_net": 0,
+    "harsh_net": 0,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 50.0,
+      "require_sweep": true,
+      "confirm": "close_or_engulf",
+      "tp_mode": "trail",
+      "entry_mode": "limit",
+      "rr": 3.0
+    },
+    "full_net": 0,
+    "full_dd": 0.0,
+    "full_dd_pct": 0.0,
+    "full_trades": 0,
+    "full_wr": 0.0,
+    "h1_net": 0,
+    "h2_net": 0,
+    "harsh_net": 0,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 50.0,
+      "require_sweep": true,
+      "confirm": "engulf_or_displacement",
+      "tp_mode": "fixed",
+      "entry_mode": "market",
+      "rr": 2.0
+    },
+    "full_net": 0,
+    "full_dd": 0.0,
+    "full_dd_pct": 0.0,
+    "full_trades": 0,
+    "full_wr": 0.0,
+    "h1_net": 0,
+    "h2_net": 0,
+    "harsh_net": 0,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 50.0,
+      "require_sweep": true,
+      "confirm": "engulf_or_displacement",
+      "tp_mode": "fixed",
+      "entry_mode": "market",
+      "rr": 3.0
+    },
+    "full_net": 0,
+    "full_dd": 0.0,
+    "full_dd_pct": 0.0,
+    "full_trades": 0,
+    "full_wr": 0.0,
+    "h1_net": 0,
+    "h2_net": 0,
+    "harsh_net": 0,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 50.0,
+      "require_sweep": true,
+      "confirm": "engulf_or_displacement",
+      "tp_mode": "fixed",
+      "entry_mode": "limit",
+      "rr": 2.0
+    },
+    "full_net": 0,
+    "full_dd": 0.0,
+    "full_dd_pct": 0.0,
+    "full_trades": 0,
+    "full_wr": 0.0,
+    "h1_net": 0,
+    "h2_net": 0,
+    "harsh_net": 0,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 50.0,
+      "require_sweep": true,
+      "confirm": "engulf_or_displacement",
+      "tp_mode": "fixed",
+      "entry_mode": "limit",
+      "rr": 3.0
+    },
+    "full_net": 0,
+    "full_dd": 0.0,
+    "full_dd_pct": 0.0,
+    "full_trades": 0,
+    "full_wr": 0.0,
+    "h1_net": 0,
+    "h2_net": 0,
+    "harsh_net": 0,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 50.0,
+      "require_sweep": true,
+      "confirm": "engulf_or_displacement",
+      "tp_mode": "fixed_and_trail",
+      "entry_mode": "market",
+      "rr": 2.0
+    },
+    "full_net": 0,
+    "full_dd": 0.0,
+    "full_dd_pct": 0.0,
+    "full_trades": 0,
+    "full_wr": 0.0,
+    "h1_net": 0,
+    "h2_net": 0,
+    "harsh_net": 0,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 50.0,
+      "require_sweep": true,
+      "confirm": "engulf_or_displacement",
+      "tp_mode": "fixed_and_trail",
+      "entry_mode": "market",
+      "rr": 3.0
+    },
+    "full_net": 0,
+    "full_dd": 0.0,
+    "full_dd_pct": 0.0,
+    "full_trades": 0,
+    "full_wr": 0.0,
+    "h1_net": 0,
+    "h2_net": 0,
+    "harsh_net": 0,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 50.0,
+      "require_sweep": true,
+      "confirm": "engulf_or_displacement",
+      "tp_mode": "fixed_and_trail",
+      "entry_mode": "limit",
+      "rr": 2.0
+    },
+    "full_net": 0,
+    "full_dd": 0.0,
+    "full_dd_pct": 0.0,
+    "full_trades": 0,
+    "full_wr": 0.0,
+    "h1_net": 0,
+    "h2_net": 0,
+    "harsh_net": 0,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 50.0,
+      "require_sweep": true,
+      "confirm": "engulf_or_displacement",
+      "tp_mode": "fixed_and_trail",
+      "entry_mode": "limit",
+      "rr": 3.0
+    },
+    "full_net": 0,
+    "full_dd": 0.0,
+    "full_dd_pct": 0.0,
+    "full_trades": 0,
+    "full_wr": 0.0,
+    "h1_net": 0,
+    "h2_net": 0,
+    "harsh_net": 0,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 50.0,
+      "require_sweep": true,
+      "confirm": "engulf_or_displacement",
+      "tp_mode": "trail",
+      "entry_mode": "market",
+      "rr": 2.0
+    },
+    "full_net": 0,
+    "full_dd": 0.0,
+    "full_dd_pct": 0.0,
+    "full_trades": 0,
+    "full_wr": 0.0,
+    "h1_net": 0,
+    "h2_net": 0,
+    "harsh_net": 0,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 50.0,
+      "require_sweep": true,
+      "confirm": "engulf_or_displacement",
+      "tp_mode": "trail",
+      "entry_mode": "market",
+      "rr": 3.0
+    },
+    "full_net": 0,
+    "full_dd": 0.0,
+    "full_dd_pct": 0.0,
+    "full_trades": 0,
+    "full_wr": 0.0,
+    "h1_net": 0,
+    "h2_net": 0,
+    "harsh_net": 0,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 50.0,
+      "require_sweep": true,
+      "confirm": "engulf_or_displacement",
+      "tp_mode": "trail",
+      "entry_mode": "limit",
+      "rr": 2.0
+    },
+    "full_net": 0,
+    "full_dd": 0.0,
+    "full_dd_pct": 0.0,
+    "full_trades": 0,
+    "full_wr": 0.0,
+    "h1_net": 0,
+    "h2_net": 0,
+    "harsh_net": 0,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 50.0,
+      "require_sweep": true,
+      "confirm": "engulf_or_displacement",
+      "tp_mode": "trail",
+      "entry_mode": "limit",
+      "rr": 3.0
+    },
+    "full_net": 0,
+    "full_dd": 0.0,
+    "full_dd_pct": 0.0,
+    "full_trades": 0,
+    "full_wr": 0.0,
+    "h1_net": 0,
+    "h2_net": 0,
+    "harsh_net": 0,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 70.0,
+      "require_sweep": true,
+      "confirm": "close_or_engulf",
+      "tp_mode": "fixed",
+      "entry_mode": "market",
+      "rr": 2.0
+    },
+    "full_net": 0,
+    "full_dd": 0.0,
+    "full_dd_pct": 0.0,
+    "full_trades": 0,
+    "full_wr": 0.0,
+    "h1_net": 0,
+    "h2_net": 0,
+    "harsh_net": 0,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 70.0,
+      "require_sweep": true,
+      "confirm": "close_or_engulf",
+      "tp_mode": "fixed",
+      "entry_mode": "market",
+      "rr": 3.0
+    },
+    "full_net": 0,
+    "full_dd": 0.0,
+    "full_dd_pct": 0.0,
+    "full_trades": 0,
+    "full_wr": 0.0,
+    "h1_net": 0,
+    "h2_net": 0,
+    "harsh_net": 0,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 70.0,
+      "require_sweep": true,
+      "confirm": "close_or_engulf",
+      "tp_mode": "fixed",
+      "entry_mode": "limit",
+      "rr": 2.0
+    },
+    "full_net": 0,
+    "full_dd": 0.0,
+    "full_dd_pct": 0.0,
+    "full_trades": 0,
+    "full_wr": 0.0,
+    "h1_net": 0,
+    "h2_net": 0,
+    "harsh_net": 0,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 70.0,
+      "require_sweep": true,
+      "confirm": "close_or_engulf",
+      "tp_mode": "fixed",
+      "entry_mode": "limit",
+      "rr": 3.0
+    },
+    "full_net": 0,
+    "full_dd": 0.0,
+    "full_dd_pct": 0.0,
+    "full_trades": 0,
+    "full_wr": 0.0,
+    "h1_net": 0,
+    "h2_net": 0,
+    "harsh_net": 0,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 70.0,
+      "require_sweep": true,
+      "confirm": "close_or_engulf",
+      "tp_mode": "fixed_and_trail",
+      "entry_mode": "market",
+      "rr": 2.0
+    },
+    "full_net": 0,
+    "full_dd": 0.0,
+    "full_dd_pct": 0.0,
+    "full_trades": 0,
+    "full_wr": 0.0,
+    "h1_net": 0,
+    "h2_net": 0,
+    "harsh_net": 0,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 70.0,
+      "require_sweep": true,
+      "confirm": "close_or_engulf",
+      "tp_mode": "fixed_and_trail",
+      "entry_mode": "market",
+      "rr": 3.0
+    },
+    "full_net": 0,
+    "full_dd": 0.0,
+    "full_dd_pct": 0.0,
+    "full_trades": 0,
+    "full_wr": 0.0,
+    "h1_net": 0,
+    "h2_net": 0,
+    "harsh_net": 0,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 70.0,
+      "require_sweep": true,
+      "confirm": "close_or_engulf",
+      "tp_mode": "fixed_and_trail",
+      "entry_mode": "limit",
+      "rr": 2.0
+    },
+    "full_net": 0,
+    "full_dd": 0.0,
+    "full_dd_pct": 0.0,
+    "full_trades": 0,
+    "full_wr": 0.0,
+    "h1_net": 0,
+    "h2_net": 0,
+    "harsh_net": 0,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 70.0,
+      "require_sweep": true,
+      "confirm": "close_or_engulf",
+      "tp_mode": "fixed_and_trail",
+      "entry_mode": "limit",
+      "rr": 3.0
+    },
+    "full_net": 0,
+    "full_dd": 0.0,
+    "full_dd_pct": 0.0,
+    "full_trades": 0,
+    "full_wr": 0.0,
+    "h1_net": 0,
+    "h2_net": 0,
+    "harsh_net": 0,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 70.0,
+      "require_sweep": true,
+      "confirm": "close_or_engulf",
+      "tp_mode": "trail",
+      "entry_mode": "market",
+      "rr": 2.0
+    },
+    "full_net": 0,
+    "full_dd": 0.0,
+    "full_dd_pct": 0.0,
+    "full_trades": 0,
+    "full_wr": 0.0,
+    "h1_net": 0,
+    "h2_net": 0,
+    "harsh_net": 0,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 70.0,
+      "require_sweep": true,
+      "confirm": "close_or_engulf",
+      "tp_mode": "trail",
+      "entry_mode": "market",
+      "rr": 3.0
+    },
+    "full_net": 0,
+    "full_dd": 0.0,
+    "full_dd_pct": 0.0,
+    "full_trades": 0,
+    "full_wr": 0.0,
+    "h1_net": 0,
+    "h2_net": 0,
+    "harsh_net": 0,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 70.0,
+      "require_sweep": true,
+      "confirm": "close_or_engulf",
+      "tp_mode": "trail",
+      "entry_mode": "limit",
+      "rr": 2.0
+    },
+    "full_net": 0,
+    "full_dd": 0.0,
+    "full_dd_pct": 0.0,
+    "full_trades": 0,
+    "full_wr": 0.0,
+    "h1_net": 0,
+    "h2_net": 0,
+    "harsh_net": 0,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 70.0,
+      "require_sweep": true,
+      "confirm": "close_or_engulf",
+      "tp_mode": "trail",
+      "entry_mode": "limit",
+      "rr": 3.0
+    },
+    "full_net": 0,
+    "full_dd": 0.0,
+    "full_dd_pct": 0.0,
+    "full_trades": 0,
+    "full_wr": 0.0,
+    "h1_net": 0,
+    "h2_net": 0,
+    "harsh_net": 0,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 70.0,
+      "require_sweep": true,
+      "confirm": "engulf_or_displacement",
+      "tp_mode": "fixed",
+      "entry_mode": "market",
+      "rr": 2.0
+    },
+    "full_net": 0,
+    "full_dd": 0.0,
+    "full_dd_pct": 0.0,
+    "full_trades": 0,
+    "full_wr": 0.0,
+    "h1_net": 0,
+    "h2_net": 0,
+    "harsh_net": 0,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 70.0,
+      "require_sweep": true,
+      "confirm": "engulf_or_displacement",
+      "tp_mode": "fixed",
+      "entry_mode": "market",
+      "rr": 3.0
+    },
+    "full_net": 0,
+    "full_dd": 0.0,
+    "full_dd_pct": 0.0,
+    "full_trades": 0,
+    "full_wr": 0.0,
+    "h1_net": 0,
+    "h2_net": 0,
+    "harsh_net": 0,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 70.0,
+      "require_sweep": true,
+      "confirm": "engulf_or_displacement",
+      "tp_mode": "fixed",
+      "entry_mode": "limit",
+      "rr": 2.0
+    },
+    "full_net": 0,
+    "full_dd": 0.0,
+    "full_dd_pct": 0.0,
+    "full_trades": 0,
+    "full_wr": 0.0,
+    "h1_net": 0,
+    "h2_net": 0,
+    "harsh_net": 0,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 70.0,
+      "require_sweep": true,
+      "confirm": "engulf_or_displacement",
+      "tp_mode": "fixed",
+      "entry_mode": "limit",
+      "rr": 3.0
+    },
+    "full_net": 0,
+    "full_dd": 0.0,
+    "full_dd_pct": 0.0,
+    "full_trades": 0,
+    "full_wr": 0.0,
+    "h1_net": 0,
+    "h2_net": 0,
+    "harsh_net": 0,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 70.0,
+      "require_sweep": true,
+      "confirm": "engulf_or_displacement",
+      "tp_mode": "fixed_and_trail",
+      "entry_mode": "market",
+      "rr": 2.0
+    },
+    "full_net": 0,
+    "full_dd": 0.0,
+    "full_dd_pct": 0.0,
+    "full_trades": 0,
+    "full_wr": 0.0,
+    "h1_net": 0,
+    "h2_net": 0,
+    "harsh_net": 0,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 70.0,
+      "require_sweep": true,
+      "confirm": "engulf_or_displacement",
+      "tp_mode": "fixed_and_trail",
+      "entry_mode": "market",
+      "rr": 3.0
+    },
+    "full_net": 0,
+    "full_dd": 0.0,
+    "full_dd_pct": 0.0,
+    "full_trades": 0,
+    "full_wr": 0.0,
+    "h1_net": 0,
+    "h2_net": 0,
+    "harsh_net": 0,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 70.0,
+      "require_sweep": true,
+      "confirm": "engulf_or_displacement",
+      "tp_mode": "fixed_and_trail",
+      "entry_mode": "limit",
+      "rr": 2.0
+    },
+    "full_net": 0,
+    "full_dd": 0.0,
+    "full_dd_pct": 0.0,
+    "full_trades": 0,
+    "full_wr": 0.0,
+    "h1_net": 0,
+    "h2_net": 0,
+    "harsh_net": 0,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 70.0,
+      "require_sweep": true,
+      "confirm": "engulf_or_displacement",
+      "tp_mode": "fixed_and_trail",
+      "entry_mode": "limit",
+      "rr": 3.0
+    },
+    "full_net": 0,
+    "full_dd": 0.0,
+    "full_dd_pct": 0.0,
+    "full_trades": 0,
+    "full_wr": 0.0,
+    "h1_net": 0,
+    "h2_net": 0,
+    "harsh_net": 0,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 70.0,
+      "require_sweep": true,
+      "confirm": "engulf_or_displacement",
+      "tp_mode": "trail",
+      "entry_mode": "market",
+      "rr": 2.0
+    },
+    "full_net": 0,
+    "full_dd": 0.0,
+    "full_dd_pct": 0.0,
+    "full_trades": 0,
+    "full_wr": 0.0,
+    "h1_net": 0,
+    "h2_net": 0,
+    "harsh_net": 0,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 70.0,
+      "require_sweep": true,
+      "confirm": "engulf_or_displacement",
+      "tp_mode": "trail",
+      "entry_mode": "market",
+      "rr": 3.0
+    },
+    "full_net": 0,
+    "full_dd": 0.0,
+    "full_dd_pct": 0.0,
+    "full_trades": 0,
+    "full_wr": 0.0,
+    "h1_net": 0,
+    "h2_net": 0,
+    "harsh_net": 0,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 70.0,
+      "require_sweep": true,
+      "confirm": "engulf_or_displacement",
+      "tp_mode": "trail",
+      "entry_mode": "limit",
+      "rr": 2.0
+    },
+    "full_net": 0,
+    "full_dd": 0.0,
+    "full_dd_pct": 0.0,
+    "full_trades": 0,
+    "full_wr": 0.0,
+    "h1_net": 0,
+    "h2_net": 0,
+    "harsh_net": 0,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 70.0,
+      "require_sweep": true,
+      "confirm": "engulf_or_displacement",
+      "tp_mode": "trail",
+      "entry_mode": "limit",
+      "rr": 3.0
+    },
+    "full_net": 0,
+    "full_dd": 0.0,
+    "full_dd_pct": 0.0,
+    "full_trades": 0,
+    "full_wr": 0.0,
+    "h1_net": 0,
+    "h2_net": 0,
+    "harsh_net": 0,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 70.0,
+      "require_sweep": false,
+      "confirm": "engulf_or_displacement",
+      "tp_mode": "fixed",
+      "entry_mode": "limit",
+      "rr": 2.0
+    },
+    "full_net": -4.01,
+    "full_dd": 129.82,
+    "full_dd_pct": 1.29,
+    "full_trades": 4,
+    "full_wr": 50.0,
+    "h1_net": -68.81,
+    "h2_net": 65.26,
+    "harsh_net": -34.86,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 70.0,
+      "require_sweep": false,
+      "confirm": "close_or_engulf",
+      "tp_mode": "fixed",
+      "entry_mode": "limit",
+      "rr": 3.0
+    },
+    "full_net": -5.34,
+    "full_dd": 209.16,
+    "full_dd_pct": 2.06,
+    "full_trades": 4,
+    "full_wr": 25.0,
+    "h1_net": -111.82,
+    "h2_net": 107.68,
+    "harsh_net": -40.72,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 35.0,
+      "require_sweep": true,
+      "confirm": "close_or_engulf",
+      "tp_mode": "fixed_and_trail",
+      "entry_mode": "market",
+      "rr": 2.0
+    },
+    "full_net": -9.48,
+    "full_dd": 52.31,
+    "full_dd_pct": 0.52,
+    "full_trades": 1,
+    "full_wr": 0.0,
+    "h1_net": 0,
+    "h2_net": -9.48,
+    "harsh_net": -24.87,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 35.0,
+      "require_sweep": true,
+      "confirm": "close_or_engulf",
+      "tp_mode": "fixed_and_trail",
+      "entry_mode": "market",
+      "rr": 3.0
+    },
+    "full_net": -9.48,
+    "full_dd": 52.31,
+    "full_dd_pct": 0.52,
+    "full_trades": 1,
+    "full_wr": 0.0,
+    "h1_net": 0,
+    "h2_net": -9.48,
+    "harsh_net": -24.87,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 35.0,
+      "require_sweep": true,
+      "confirm": "close_or_engulf",
+      "tp_mode": "trail",
+      "entry_mode": "market",
+      "rr": 2.0
+    },
+    "full_net": -9.48,
+    "full_dd": 52.31,
+    "full_dd_pct": 0.52,
+    "full_trades": 1,
+    "full_wr": 0.0,
+    "h1_net": 0,
+    "h2_net": -9.48,
+    "harsh_net": -24.87,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 35.0,
+      "require_sweep": true,
+      "confirm": "close_or_engulf",
+      "tp_mode": "trail",
+      "entry_mode": "market",
+      "rr": 3.0
+    },
+    "full_net": -9.48,
+    "full_dd": 52.31,
+    "full_dd_pct": 0.52,
+    "full_trades": 1,
+    "full_wr": 0.0,
+    "h1_net": 0,
+    "h2_net": -9.48,
+    "harsh_net": -24.87,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 35.0,
+      "require_sweep": true,
+      "confirm": "engulf_or_displacement",
+      "tp_mode": "fixed_and_trail",
+      "entry_mode": "market",
+      "rr": 2.0
+    },
+    "full_net": -9.48,
+    "full_dd": 52.31,
+    "full_dd_pct": 0.52,
+    "full_trades": 1,
+    "full_wr": 0.0,
+    "h1_net": 0,
+    "h2_net": -9.48,
+    "harsh_net": -24.87,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 35.0,
+      "require_sweep": true,
+      "confirm": "engulf_or_displacement",
+      "tp_mode": "fixed_and_trail",
+      "entry_mode": "market",
+      "rr": 3.0
+    },
+    "full_net": -9.48,
+    "full_dd": 52.31,
+    "full_dd_pct": 0.52,
+    "full_trades": 1,
+    "full_wr": 0.0,
+    "h1_net": 0,
+    "h2_net": -9.48,
+    "harsh_net": -24.87,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 35.0,
+      "require_sweep": true,
+      "confirm": "engulf_or_displacement",
+      "tp_mode": "trail",
+      "entry_mode": "market",
+      "rr": 2.0
+    },
+    "full_net": -9.48,
+    "full_dd": 52.31,
+    "full_dd_pct": 0.52,
+    "full_trades": 1,
+    "full_wr": 0.0,
+    "h1_net": 0,
+    "h2_net": -9.48,
+    "harsh_net": -24.87,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 35.0,
+      "require_sweep": true,
+      "confirm": "engulf_or_displacement",
+      "tp_mode": "trail",
+      "entry_mode": "market",
+      "rr": 3.0
+    },
+    "full_net": -9.48,
+    "full_dd": 52.31,
+    "full_dd_pct": 0.52,
+    "full_trades": 1,
+    "full_wr": 0.0,
+    "h1_net": 0,
+    "h2_net": -9.48,
+    "harsh_net": -24.87,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 50.0,
+      "require_sweep": false,
+      "confirm": "close_or_engulf",
+      "tp_mode": "fixed_and_trail",
+      "entry_mode": "limit",
+      "rr": 2.0
+    },
+    "full_net": -12.11,
+    "full_dd": 159.52,
+    "full_dd_pct": 1.58,
+    "full_trades": 9,
+    "full_wr": 44.4,
+    "h1_net": -56.44,
+    "h2_net": 44.57,
+    "harsh_net": -94.37,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 50.0,
+      "require_sweep": false,
+      "confirm": "close_or_engulf",
+      "tp_mode": "trail",
+      "entry_mode": "limit",
+      "rr": 2.0
+    },
+    "full_net": -12.81,
+    "full_dd": 160.66,
+    "full_dd_pct": 1.59,
+    "full_trades": 9,
+    "full_wr": 44.4,
+    "h1_net": -57.14,
+    "h2_net": 44.57,
+    "harsh_net": -98.32,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 50.0,
+      "require_sweep": false,
+      "confirm": "close_or_engulf",
+      "tp_mode": "trail",
+      "entry_mode": "limit",
+      "rr": 3.0
+    },
+    "full_net": -12.81,
+    "full_dd": 160.66,
+    "full_dd_pct": 1.59,
+    "full_trades": 9,
+    "full_wr": 44.4,
+    "h1_net": -57.14,
+    "h2_net": 44.57,
+    "harsh_net": -98.32,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 35.0,
+      "require_sweep": false,
+      "confirm": "engulf_or_displacement",
+      "tp_mode": "fixed",
+      "entry_mode": "limit",
+      "rr": 2.0
+    },
+    "full_net": -28.59,
+    "full_dd": 284.96,
+    "full_dd_pct": 2.78,
+    "full_trades": 12,
+    "full_wr": 41.7,
+    "h1_net": -71.57,
+    "h2_net": -27.23,
+    "harsh_net": -128.91,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 35.0,
+      "require_sweep": false,
+      "confirm": "engulf_or_displacement",
+      "tp_mode": "fixed",
+      "entry_mode": "limit",
+      "rr": 3.0
+    },
+    "full_net": -36.5,
+    "full_dd": 254.3,
+    "full_dd_pct": 2.49,
+    "full_trades": 11,
+    "full_wr": 36.4,
+    "h1_net": -41.95,
+    "h2_net": -39.18,
+    "harsh_net": -136.84,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 50.0,
+      "require_sweep": false,
+      "confirm": "engulf_or_displacement",
+      "tp_mode": "fixed",
+      "entry_mode": "limit",
+      "rr": 2.0
+    },
+    "full_net": -50.28,
+    "full_dd": 209.62,
+    "full_dd_pct": 2.07,
+    "full_trades": 8,
+    "full_wr": 37.5,
+    "h1_net": -13.19,
+    "h2_net": -37.14,
+    "harsh_net": -118.22,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 50.0,
+      "require_sweep": false,
+      "confirm": "engulf_or_displacement",
+      "tp_mode": "fixed_and_trail",
+      "entry_mode": "limit",
+      "rr": 3.0
+    },
+    "full_net": -68.58,
+    "full_dd": 226.71,
+    "full_dd_pct": 2.24,
+    "full_trades": 8,
+    "full_wr": 50.0,
+    "h1_net": 16.61,
+    "h2_net": -85.04,
+    "harsh_net": -142.88,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 70.0,
+      "require_sweep": false,
+      "confirm": "close_or_engulf",
+      "tp_mode": "fixed_and_trail",
+      "entry_mode": "limit",
+      "rr": 2.0
+    },
+    "full_net": -73.19,
+    "full_dd": 158.63,
+    "full_dd_pct": 1.58,
+    "full_trades": 5,
+    "full_wr": 40.0,
+    "h1_net": -111.82,
+    "h2_net": 39.07,
+    "harsh_net": -119.36,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 70.0,
+      "require_sweep": false,
+      "confirm": "close_or_engulf",
+      "tp_mode": "fixed_and_trail",
+      "entry_mode": "limit",
+      "rr": 3.0
+    },
+    "full_net": -73.19,
+    "full_dd": 158.63,
+    "full_dd_pct": 1.58,
+    "full_trades": 5,
+    "full_wr": 40.0,
+    "h1_net": -111.82,
+    "h2_net": 39.07,
+    "harsh_net": -119.36,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 70.0,
+      "require_sweep": false,
+      "confirm": "close_or_engulf",
+      "tp_mode": "trail",
+      "entry_mode": "limit",
+      "rr": 2.0
+    },
+    "full_net": -73.19,
+    "full_dd": 158.63,
+    "full_dd_pct": 1.58,
+    "full_trades": 5,
+    "full_wr": 40.0,
+    "h1_net": -111.82,
+    "h2_net": 39.07,
+    "harsh_net": -119.36,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 70.0,
+      "require_sweep": false,
+      "confirm": "close_or_engulf",
+      "tp_mode": "trail",
+      "entry_mode": "limit",
+      "rr": 3.0
+    },
+    "full_net": -73.19,
+    "full_dd": 158.63,
+    "full_dd_pct": 1.58,
+    "full_trades": 5,
+    "full_wr": 40.0,
+    "h1_net": -111.82,
+    "h2_net": 39.07,
+    "harsh_net": -119.36,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 50.0,
+      "require_sweep": false,
+      "confirm": "engulf_or_displacement",
+      "tp_mode": "fixed_and_trail",
+      "entry_mode": "limit",
+      "rr": 2.0
+    },
+    "full_net": -98.12,
+    "full_dd": 226.03,
+    "full_dd_pct": 2.24,
+    "full_trades": 8,
+    "full_wr": 50.0,
+    "h1_net": -13.19,
+    "h2_net": -85.04,
+    "harsh_net": -172.2,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 50.0,
+      "require_sweep": false,
+      "confirm": "engulf_or_displacement",
+      "tp_mode": "trail",
+      "entry_mode": "limit",
+      "rr": 2.0
+    },
+    "full_net": -98.81,
+    "full_dd": 227.16,
+    "full_dd_pct": 2.25,
+    "full_trades": 8,
+    "full_wr": 50.0,
+    "h1_net": -13.89,
+    "h2_net": -85.04,
+    "harsh_net": -176.12,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 50.0,
+      "require_sweep": false,
+      "confirm": "engulf_or_displacement",
+      "tp_mode": "trail",
+      "entry_mode": "limit",
+      "rr": 3.0
+    },
+    "full_net": -98.81,
+    "full_dd": 227.16,
+    "full_dd_pct": 2.25,
+    "full_trades": 8,
+    "full_wr": 50.0,
+    "h1_net": -13.89,
+    "h2_net": -85.04,
+    "harsh_net": -176.12,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 35.0,
+      "require_sweep": false,
+      "confirm": "engulf_or_displacement",
+      "tp_mode": "fixed_and_trail",
+      "entry_mode": "limit",
+      "rr": 3.0
+    },
+    "full_net": -103.73,
+    "full_dd": 261.77,
+    "full_dd_pct": 2.58,
+    "full_trades": 12,
+    "full_wr": 50.0,
+    "h1_net": -16.28,
+    "h2_net": -87.59,
+    "harsh_net": -221.33,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 50.0,
+      "require_sweep": false,
+      "confirm": "engulf_or_displacement",
+      "tp_mode": "fixed",
+      "entry_mode": "market",
+      "rr": 3.0
+    },
+    "full_net": -110.35,
+    "full_dd": 393.75,
+    "full_dd_pct": 3.94,
+    "full_trades": 11,
+    "full_wr": 36.4,
+    "h1_net": -304.46,
+    "h2_net": 200.08,
+    "harsh_net": -245.34,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 70.0,
+      "require_sweep": false,
+      "confirm": "close_or_engulf",
+      "tp_mode": "fixed",
+      "entry_mode": "market",
+      "rr": 2.0
+    },
+    "full_net": -120.72,
+    "full_dd": 419.42,
+    "full_dd_pct": 4.17,
+    "full_trades": 9,
+    "full_wr": 33.3,
+    "h1_net": -232.91,
+    "h2_net": 114.8,
+    "harsh_net": -231.41,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 35.0,
+      "require_sweep": false,
+      "confirm": "engulf_or_displacement",
+      "tp_mode": "trail",
+      "entry_mode": "limit",
+      "rr": 2.0
+    },
+    "full_net": -121.42,
+    "full_dd": 262.37,
+    "full_dd_pct": 2.59,
+    "full_trades": 12,
+    "full_wr": 50.0,
+    "h1_net": -34.14,
+    "h2_net": -87.59,
+    "harsh_net": -242.01,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 35.0,
+      "require_sweep": false,
+      "confirm": "engulf_or_displacement",
+      "tp_mode": "trail",
+      "entry_mode": "limit",
+      "rr": 3.0
+    },
+    "full_net": -121.42,
+    "full_dd": 262.37,
+    "full_dd_pct": 2.59,
+    "full_trades": 12,
+    "full_wr": 50.0,
+    "h1_net": -34.14,
+    "h2_net": -87.59,
+    "harsh_net": -242.01,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 70.0,
+      "require_sweep": false,
+      "confirm": "engulf_or_displacement",
+      "tp_mode": "fixed_and_trail",
+      "entry_mode": "limit",
+      "rr": 2.0
+    },
+    "full_net": -122.7,
+    "full_dd": 169.51,
+    "full_dd_pct": 1.69,
+    "full_trades": 4,
+    "full_wr": 50.0,
+    "h1_net": -68.81,
+    "h2_net": -54.26,
+    "harsh_net": -159.93,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 70.0,
+      "require_sweep": false,
+      "confirm": "engulf_or_displacement",
+      "tp_mode": "fixed_and_trail",
+      "entry_mode": "limit",
+      "rr": 3.0
+    },
+    "full_net": -122.7,
+    "full_dd": 169.51,
+    "full_dd_pct": 1.69,
+    "full_trades": 4,
+    "full_wr": 50.0,
+    "h1_net": -68.81,
+    "h2_net": -54.26,
+    "harsh_net": -159.93,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 70.0,
+      "require_sweep": false,
+      "confirm": "engulf_or_displacement",
+      "tp_mode": "trail",
+      "entry_mode": "limit",
+      "rr": 2.0
+    },
+    "full_net": -122.7,
+    "full_dd": 169.51,
+    "full_dd_pct": 1.69,
+    "full_trades": 4,
+    "full_wr": 50.0,
+    "h1_net": -68.81,
+    "h2_net": -54.26,
+    "harsh_net": -159.93,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 70.0,
+      "require_sweep": false,
+      "confirm": "engulf_or_displacement",
+      "tp_mode": "trail",
+      "entry_mode": "limit",
+      "rr": 3.0
+    },
+    "full_net": -122.7,
+    "full_dd": 169.51,
+    "full_dd_pct": 1.69,
+    "full_trades": 4,
+    "full_wr": 50.0,
+    "h1_net": -68.81,
+    "h2_net": -54.26,
+    "harsh_net": -159.93,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 35.0,
+      "require_sweep": false,
+      "confirm": "engulf_or_displacement",
+      "tp_mode": "fixed_and_trail",
+      "entry_mode": "limit",
+      "rr": 2.0
+    },
+    "full_net": -133.15,
+    "full_dd": 260.97,
+    "full_dd_pct": 2.58,
+    "full_trades": 12,
+    "full_wr": 50.0,
+    "h1_net": -45.97,
+    "h2_net": -87.59,
+    "harsh_net": -250.39,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 35.0,
+      "require_sweep": false,
+      "confirm": "close_or_engulf",
+      "tp_mode": "fixed_and_trail",
+      "entry_mode": "limit",
+      "rr": 2.0
+    },
+    "full_net": -134.15,
+    "full_dd": 291.66,
+    "full_dd_pct": 2.9,
+    "full_trades": 15,
+    "full_wr": 53.3,
+    "h1_net": -243.8,
+    "h2_net": 112.33,
+    "harsh_net": -278.68,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 35.0,
+      "require_sweep": false,
+      "confirm": "close_or_engulf",
+      "tp_mode": "fixed_and_trail",
+      "entry_mode": "limit",
+      "rr": 3.0
+    },
+    "full_net": -134.15,
+    "full_dd": 291.66,
+    "full_dd_pct": 2.9,
+    "full_trades": 15,
+    "full_wr": 53.3,
+    "h1_net": -243.8,
+    "h2_net": 112.33,
+    "harsh_net": -278.68,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 35.0,
+      "require_sweep": false,
+      "confirm": "close_or_engulf",
+      "tp_mode": "trail",
+      "entry_mode": "limit",
+      "rr": 2.0
+    },
+    "full_net": -134.15,
+    "full_dd": 291.66,
+    "full_dd_pct": 2.9,
+    "full_trades": 15,
+    "full_wr": 53.3,
+    "h1_net": -243.8,
+    "h2_net": 112.33,
+    "harsh_net": -278.68,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 35.0,
+      "require_sweep": false,
+      "confirm": "close_or_engulf",
+      "tp_mode": "trail",
+      "entry_mode": "limit",
+      "rr": 3.0
+    },
+    "full_net": -134.15,
+    "full_dd": 291.66,
+    "full_dd_pct": 2.9,
+    "full_trades": 15,
+    "full_wr": 53.3,
+    "h1_net": -243.8,
+    "h2_net": 112.33,
+    "harsh_net": -278.68,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 35.0,
+      "require_sweep": false,
+      "confirm": "close_or_engulf",
+      "tp_mode": "fixed",
+      "entry_mode": "market",
+      "rr": 2.0
+    },
+    "full_net": -221.53,
+    "full_dd": 663.55,
+    "full_dd_pct": 6.58,
+    "full_trades": 21,
+    "full_wr": 38.1,
+    "h1_net": -534.05,
+    "h2_net": 330.04,
+    "harsh_net": -573.32,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 50.0,
+      "require_sweep": false,
+      "confirm": "engulf_or_displacement",
+      "tp_mode": "fixed",
+      "entry_mode": "market",
+      "rr": 2.0
+    },
+    "full_net": -308.96,
+    "full_dd": 393.75,
+    "full_dd_pct": 3.94,
+    "full_trades": 12,
+    "full_wr": 33.3,
+    "h1_net": -304.46,
+    "h2_net": -4.79,
+    "harsh_net": -456.23,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 35.0,
+      "require_sweep": false,
+      "confirm": "close_or_engulf",
+      "tp_mode": "fixed",
+      "entry_mode": "market",
+      "rr": 3.0
+    },
+    "full_net": -316.72,
+    "full_dd": 640.87,
+    "full_dd_pct": 6.35,
+    "full_trades": 19,
+    "full_wr": 26.3,
+    "h1_net": -504.54,
+    "h2_net": 197.68,
+    "harsh_net": -543.05,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 50.0,
+      "require_sweep": false,
+      "confirm": "close_or_engulf",
+      "tp_mode": "fixed",
+      "entry_mode": "market",
+      "rr": 2.0
+    },
+    "full_net": -320.09,
+    "full_dd": 543.71,
+    "full_dd_pct": 5.44,
+    "full_trades": 14,
+    "full_wr": 28.6,
+    "h1_net": -408.47,
+    "h2_net": 91.91,
+    "harsh_net": -496.93,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 70.0,
+      "require_sweep": false,
+      "confirm": "close_or_engulf",
+      "tp_mode": "fixed_and_trail",
+      "entry_mode": "market",
+      "rr": 2.0
+    },
+    "full_net": -347.58,
+    "full_dd": 415.85,
+    "full_dd_pct": 4.14,
+    "full_trades": 11,
+    "full_wr": 36.4,
+    "h1_net": -232.91,
+    "h2_net": -117.5,
+    "harsh_net": -489.74,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 35.0,
+      "require_sweep": false,
+      "confirm": "engulf_or_displacement",
+      "tp_mode": "fixed",
+      "entry_mode": "market",
+      "rr": 3.0
+    },
+    "full_net": -355.63,
+    "full_dd": 580.94,
+    "full_dd_pct": 5.81,
+    "full_trades": 18,
+    "full_wr": 27.8,
+    "h1_net": -528.3,
+    "h2_net": 182.11,
+    "harsh_net": -578.9,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 35.0,
+      "require_sweep": false,
+      "confirm": "close_or_engulf",
+      "tp_mode": "fixed_and_trail",
+      "entry_mode": "market",
+      "rr": 3.0
+    },
+    "full_net": -366.03,
+    "full_dd": 484.96,
+    "full_dd_pct": 4.81,
+    "full_trades": 24,
+    "full_wr": 41.7,
+    "h1_net": -393.02,
+    "h2_net": 27.51,
+    "harsh_net": -691.93,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 70.0,
+      "require_sweep": false,
+      "confirm": "engulf_or_displacement",
+      "tp_mode": "fixed",
+      "entry_mode": "market",
+      "rr": 2.0
+    },
+    "full_net": -375.07,
+    "full_dd": 423.8,
+    "full_dd_pct": 4.22,
+    "full_trades": 9,
+    "full_wr": 22.2,
+    "h1_net": -232.13,
+    "h2_net": -146.41,
+    "harsh_net": -486.2,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 35.0,
+      "require_sweep": false,
+      "confirm": "close_or_engulf",
+      "tp_mode": "trail",
+      "entry_mode": "market",
+      "rr": 2.0
+    },
+    "full_net": -381.0,
+    "full_dd": 537.61,
+    "full_dd_pct": 5.31,
+    "full_trades": 24,
+    "full_wr": 41.7,
+    "h1_net": -407.96,
+    "h2_net": 27.51,
+    "harsh_net": -718.34,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 35.0,
+      "require_sweep": false,
+      "confirm": "close_or_engulf",
+      "tp_mode": "trail",
+      "entry_mode": "market",
+      "rr": 3.0
+    },
+    "full_net": -381.0,
+    "full_dd": 537.61,
+    "full_dd_pct": 5.31,
+    "full_trades": 24,
+    "full_wr": 41.7,
+    "h1_net": -407.96,
+    "h2_net": 27.51,
+    "harsh_net": -718.34,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 70.0,
+      "require_sweep": false,
+      "confirm": "close_or_engulf",
+      "tp_mode": "fixed",
+      "entry_mode": "market",
+      "rr": 3.0
+    },
+    "full_net": -383.87,
+    "full_dd": 531.06,
+    "full_dd_pct": 5.28,
+    "full_trades": 9,
+    "full_wr": 11.1,
+    "h1_net": -331.14,
+    "h2_net": -54.64,
+    "harsh_net": -501.21,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 70.0,
+      "require_sweep": false,
+      "confirm": "close_or_engulf",
+      "tp_mode": "fixed_and_trail",
+      "entry_mode": "market",
+      "rr": 3.0
+    },
+    "full_net": -388.02,
+    "full_dd": 471.04,
+    "full_dd_pct": 4.68,
+    "full_trades": 11,
+    "full_wr": 36.4,
+    "h1_net": -273.85,
+    "h2_net": -117.5,
+    "harsh_net": -534.72,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 70.0,
+      "require_sweep": false,
+      "confirm": "close_or_engulf",
+      "tp_mode": "trail",
+      "entry_mode": "market",
+      "rr": 2.0
+    },
+    "full_net": -388.02,
+    "full_dd": 471.04,
+    "full_dd_pct": 4.68,
+    "full_trades": 11,
+    "full_wr": 36.4,
+    "h1_net": -273.85,
+    "h2_net": -117.5,
+    "harsh_net": -534.72,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 70.0,
+      "require_sweep": false,
+      "confirm": "close_or_engulf",
+      "tp_mode": "trail",
+      "entry_mode": "market",
+      "rr": 3.0
+    },
+    "full_net": -388.02,
+    "full_dd": 471.04,
+    "full_dd_pct": 4.68,
+    "full_trades": 11,
+    "full_wr": 36.4,
+    "h1_net": -273.85,
+    "h2_net": -117.5,
+    "harsh_net": -534.72,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 35.0,
+      "require_sweep": false,
+      "confirm": "close_or_engulf",
+      "tp_mode": "fixed_and_trail",
+      "entry_mode": "market",
+      "rr": 2.0
+    },
+    "full_net": -395.93,
+    "full_dd": 508.13,
+    "full_dd_pct": 5.04,
+    "full_trades": 24,
+    "full_wr": 41.7,
+    "h1_net": -422.87,
+    "h2_net": 27.51,
+    "harsh_net": -722.9,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 50.0,
+      "require_sweep": false,
+      "confirm": "engulf_or_displacement",
+      "tp_mode": "fixed_and_trail",
+      "entry_mode": "market",
+      "rr": 2.0
+    },
+    "full_net": -396.9,
+    "full_dd": 437.58,
+    "full_dd_pct": 4.38,
+    "full_trades": 14,
+    "full_wr": 35.7,
+    "h1_net": -298.68,
+    "h2_net": -101.47,
+    "harsh_net": -585.89,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 50.0,
+      "require_sweep": false,
+      "confirm": "engulf_or_displacement",
+      "tp_mode": "fixed_and_trail",
+      "entry_mode": "market",
+      "rr": 3.0
+    },
+    "full_net": -396.9,
+    "full_dd": 437.58,
+    "full_dd_pct": 4.38,
+    "full_trades": 14,
+    "full_wr": 35.7,
+    "h1_net": -298.68,
+    "h2_net": -101.47,
+    "harsh_net": -585.89,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 50.0,
+      "require_sweep": false,
+      "confirm": "engulf_or_displacement",
+      "tp_mode": "trail",
+      "entry_mode": "market",
+      "rr": 2.0
+    },
+    "full_net": -396.9,
+    "full_dd": 437.58,
+    "full_dd_pct": 4.38,
+    "full_trades": 14,
+    "full_wr": 35.7,
+    "h1_net": -298.68,
+    "h2_net": -101.47,
+    "harsh_net": -585.89,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 50.0,
+      "require_sweep": false,
+      "confirm": "engulf_or_displacement",
+      "tp_mode": "trail",
+      "entry_mode": "market",
+      "rr": 3.0
+    },
+    "full_net": -396.9,
+    "full_dd": 437.58,
+    "full_dd_pct": 4.38,
+    "full_trades": 14,
+    "full_wr": 35.7,
+    "h1_net": -298.68,
+    "h2_net": -101.47,
+    "harsh_net": -585.89,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 50.0,
+      "require_sweep": false,
+      "confirm": "close_or_engulf",
+      "tp_mode": "fixed",
+      "entry_mode": "market",
+      "rr": 3.0
+    },
+    "full_net": -409.94,
+    "full_dd": 543.71,
+    "full_dd_pct": 5.44,
+    "full_trades": 14,
+    "full_wr": 21.4,
+    "h1_net": -408.47,
+    "h2_net": -1.8,
+    "harsh_net": -590.07,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 70.0,
+      "require_sweep": false,
+      "confirm": "engulf_or_displacement",
+      "tp_mode": "fixed_and_trail",
+      "entry_mode": "market",
+      "rr": 2.0
+    },
+    "full_net": -425.13,
+    "full_dd": 473.86,
+    "full_dd_pct": 4.72,
+    "full_trades": 10,
+    "full_wr": 30.0,
+    "h1_net": -232.13,
+    "h2_net": -197.68,
+    "harsh_net": -552.63,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 50.0,
+      "require_sweep": false,
+      "confirm": "close_or_engulf",
+      "tp_mode": "fixed_and_trail",
+      "entry_mode": "market",
+      "rr": 2.0
+    },
+    "full_net": -427.7,
+    "full_dd": 468.25,
+    "full_dd_pct": 4.68,
+    "full_trades": 16,
+    "full_wr": 31.2,
+    "h1_net": -351.07,
+    "h2_net": -79.73,
+    "harsh_net": -643.91,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 50.0,
+      "require_sweep": false,
+      "confirm": "close_or_engulf",
+      "tp_mode": "fixed_and_trail",
+      "entry_mode": "market",
+      "rr": 3.0
+    },
+    "full_net": -427.7,
+    "full_dd": 468.25,
+    "full_dd_pct": 4.68,
+    "full_trades": 16,
+    "full_wr": 31.2,
+    "h1_net": -351.07,
+    "h2_net": -79.73,
+    "harsh_net": -643.91,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 50.0,
+      "require_sweep": false,
+      "confirm": "close_or_engulf",
+      "tp_mode": "trail",
+      "entry_mode": "market",
+      "rr": 2.0
+    },
+    "full_net": -427.7,
+    "full_dd": 468.25,
+    "full_dd_pct": 4.68,
+    "full_trades": 16,
+    "full_wr": 31.2,
+    "h1_net": -351.07,
+    "h2_net": -79.73,
+    "harsh_net": -643.91,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 50.0,
+      "require_sweep": false,
+      "confirm": "close_or_engulf",
+      "tp_mode": "trail",
+      "entry_mode": "market",
+      "rr": 3.0
+    },
+    "full_net": -427.7,
+    "full_dd": 468.25,
+    "full_dd_pct": 4.68,
+    "full_trades": 16,
+    "full_wr": 31.2,
+    "h1_net": -351.07,
+    "h2_net": -79.73,
+    "harsh_net": -643.91,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 35.0,
+      "require_sweep": false,
+      "confirm": "engulf_or_displacement",
+      "tp_mode": "fixed",
+      "entry_mode": "market",
+      "rr": 2.0
+    },
+    "full_net": -435.11,
+    "full_dd": 578.91,
+    "full_dd_pct": 5.79,
+    "full_trades": 20,
+    "full_wr": 35.0,
+    "h1_net": -528.3,
+    "h2_net": 98.22,
+    "harsh_net": -812.8,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 70.0,
+      "require_sweep": false,
+      "confirm": "engulf_or_displacement",
+      "tp_mode": "fixed",
+      "entry_mode": "market",
+      "rr": 3.0
+    },
+    "full_net": -435.33,
+    "full_dd": 498.88,
+    "full_dd_pct": 4.96,
+    "full_trades": 9,
+    "full_wr": 11.1,
+    "h1_net": -330.38,
+    "h2_net": -108.64,
+    "harsh_net": -549.99,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 70.0,
+      "require_sweep": false,
+      "confirm": "engulf_or_displacement",
+      "tp_mode": "fixed_and_trail",
+      "entry_mode": "market",
+      "rr": 3.0
+    },
+    "full_net": -465.25,
+    "full_dd": 528.8,
+    "full_dd_pct": 5.25,
+    "full_trades": 10,
+    "full_wr": 30.0,
+    "h1_net": -273.08,
+    "h2_net": -197.68,
+    "harsh_net": -597.33,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 70.0,
+      "require_sweep": false,
+      "confirm": "engulf_or_displacement",
+      "tp_mode": "trail",
+      "entry_mode": "market",
+      "rr": 2.0
+    },
+    "full_net": -465.25,
+    "full_dd": 528.8,
+    "full_dd_pct": 5.25,
+    "full_trades": 10,
+    "full_wr": 30.0,
+    "h1_net": -273.08,
+    "h2_net": -197.68,
+    "harsh_net": -597.33,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 70.0,
+      "require_sweep": false,
+      "confirm": "engulf_or_displacement",
+      "tp_mode": "trail",
+      "entry_mode": "market",
+      "rr": 3.0
+    },
+    "full_net": -465.25,
+    "full_dd": 528.8,
+    "full_dd_pct": 5.25,
+    "full_trades": 10,
+    "full_wr": 30.0,
+    "h1_net": -273.08,
+    "h2_net": -197.68,
+    "harsh_net": -597.33,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 35.0,
+      "require_sweep": false,
+      "confirm": "engulf_or_displacement",
+      "tp_mode": "fixed_and_trail",
+      "entry_mode": "market",
+      "rr": 2.0
+    },
+    "full_net": -498.96,
+    "full_dd": 539.22,
+    "full_dd_pct": 5.39,
+    "full_trades": 22,
+    "full_wr": 36.4,
+    "h1_net": -468.31,
+    "h2_net": -32.72,
+    "harsh_net": -794.19,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 35.0,
+      "require_sweep": false,
+      "confirm": "engulf_or_displacement",
+      "tp_mode": "fixed_and_trail",
+      "entry_mode": "market",
+      "rr": 3.0
+    },
+    "full_net": -498.96,
+    "full_dd": 539.22,
+    "full_dd_pct": 5.39,
+    "full_trades": 22,
+    "full_wr": 36.4,
+    "h1_net": -468.31,
+    "h2_net": -32.72,
+    "harsh_net": -794.19,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 35.0,
+      "require_sweep": false,
+      "confirm": "engulf_or_displacement",
+      "tp_mode": "trail",
+      "entry_mode": "market",
+      "rr": 2.0
+    },
+    "full_net": -498.96,
+    "full_dd": 539.22,
+    "full_dd_pct": 5.39,
+    "full_trades": 22,
+    "full_wr": 36.4,
+    "h1_net": -468.31,
+    "h2_net": -32.72,
+    "harsh_net": -794.19,
+    "robust": false
+  },
+  {
+    "params": {
+      "min_leg_bps": 35.0,
+      "require_sweep": false,
+      "confirm": "engulf_or_displacement",
+      "tp_mode": "trail",
+      "entry_mode": "market",
+      "rr": 3.0
+    },
+    "full_net": -498.96,
+    "full_dd": 539.22,
+    "full_dd_pct": 5.39,
+    "full_trades": 22,
+    "full_wr": 36.4,
+    "h1_net": -468.31,
+    "h2_net": -32.72,
+    "harsh_net": -794.19,
+    "robust": false
+  }
+]
